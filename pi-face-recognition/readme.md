@@ -30,4 +30,13 @@
 *sudo apt-get install libgtk2.0-dev libgtk-3-dev
 #可以進一步優化OpenCV內部的許多操作
 #
-*sudo apt-get install libatlas-base-dev gfortran
+sudo apt-get install libatlas-base-dev gfortran
+
+# 無線網路設定
+#
+* sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+* network={
+*        ssid="netis_942253"
+*        psk="12345678"
+*        key_mgmt=WPA-PSK
+* }

@@ -2,12 +2,12 @@
 # 
 #### 第一步 擴展文件系統並回收空間
 #
-#### sudo raspi-config
+* sudo raspi-config
 #### 然後選擇"7個高級選項"菜單項：
 ![raspi](https://www.pyimagesearch.com/wp-content/uploads/2019/09/install_opencv4_buster_raspi_config.jpg)
 #### 然後選擇"A1擴展文件系統"：
 ![A1擴展文件系統](https://www.pyimagesearch.com/wp-content/uploads/2019/09/install_opencv4_buster_raspi_config_expand_fs.jpg)
-#### sudo reboot
+* sudo reboot
 #### 第二部 安裝依賴項
 #
 # 更新和升級任何現有軟件包：
@@ -62,4 +62,9 @@
 * import cv2
 * cv2.__version__
 * '4.1.1'
-
+#### 使用face_recognition 在樹梅派
+#
+## 安裝dlib
+* workon <your env name> # optional
+* pip install dlib
+##

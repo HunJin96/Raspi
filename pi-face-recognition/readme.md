@@ -59,7 +59,7 @@
 * cd ~
 * workon cv
 * python
->>> import cv2
->>> cv2.__version__
+* >>> import cv2
+* >>> cv2.__version__
 '4.1.1'
->>>
+* >>>

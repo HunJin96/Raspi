@@ -64,10 +64,10 @@
 * '4.1.1'
 #### 使用face_recognition 在樹梅派
 #
-#### 安裝dlib
-* workon <your env name> # optional
+#### 安裝 dlib
+* workon <your env name> 
 * pip install dlib
-#### 安裝face_recognition
+#### 安裝 face_recognition
 * pip install face_recognition
-#### 安裝imutils
+#### 安裝 imutils
 * pip install imutils

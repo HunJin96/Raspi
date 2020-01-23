@@ -10,9 +10,9 @@
 * sudo reboot
 #### 第二部 安裝依賴項
 #
-# 更新和升級任何現有軟件包：
+#### 更新和升級任何現有軟件包：
 * sudo apt-get update && sudo apt-get upgrade
-# 我們需要安裝一些開發人員工具，包括CMake
+#### 我們需要安裝一些開發人員工具，包括CMake
 * sudo apt-get install build-essential cmake pkg-config
 # 我們需要安裝一些映像I / O，包括JPEG，PNG，TIFF等
 * sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng-dev

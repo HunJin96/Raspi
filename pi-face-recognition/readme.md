@@ -72,7 +72,7 @@
 #### 安裝 imutils
 * pip install imutils
 ### DataSet Directory Structure:
-![raspi](https://www.pyimagesearch.com/wp-content/uploads/2019/09/install_opencv4_buster_raspi_config.jpg)
+![raspi](https://github.com/HunJin96/Raspi/blob/master/pi-face-recognition/Image/123.PNG)
 ### 訓練指令
 * python encode_faces.py --dataset dataset --encodings encodings.pickle \
 	--detection-method hog

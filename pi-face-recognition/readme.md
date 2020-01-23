@@ -23,7 +23,7 @@
 #
 *sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
 *sudo apt-get install libxvidcore-dev libx264-dev
-# OpenCV庫帶有一個名為highgui的子模塊，該子模塊 用於在我們的屏幕上顯示圖像並構建基本的GUI
+# 無線網路設定
 #
 * sudo apt-get install libfontconfig1-dev libcairo2-dev
 * sudo apt-get install libgdk-pixbuf2.0-dev libpango1.0-dev
